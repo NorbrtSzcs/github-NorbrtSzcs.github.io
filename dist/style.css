@@ -1,12 +1,14 @@
 html {
   width: auto;
   heigth: auto;
+  background-color: aquamarine;
   
 }
 
 .container {
-  background-size: 700px;
-  height: auto;
+  background-size: 600px;
+  width: 700px;
+  height: 250px;;
   position: relative;
   background: white;
   
@@ -22,7 +24,7 @@ img {
 .center {
   position: absolute;
   top: 50%;
-  left: 9%;  
+  left: 25%;  
   font-family:"Abril Fatface";
   line-height: 1px;
   font-weight: 100px;
